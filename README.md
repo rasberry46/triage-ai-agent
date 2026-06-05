@@ -62,7 +62,7 @@ Set your Jira webhook URL to: `https://your-domain/webhook/jira`
 
 ---
 
-## 📈 Results (Intuit Production Baseline)
+## 📈 Results (Production Baseline)
 
 | Metric | Before | After |
 |--------|--------|-------|
@@ -71,7 +71,6 @@ Set your Jira webhook URL to: `https://your-domain/webhook/jira`
 | Sprint backlog clearance | baseline | +30% |
 | Engineer context switches | high | reduced by ~40% |
 
-> Based on pilot deployment across 3 squads at Intuit (QuickBooks platform, 2024–2025).
 
 ---
 
